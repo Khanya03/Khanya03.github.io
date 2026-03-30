@@ -93,3 +93,10 @@ Plum Systems, Cape Town
 **Tristan**  
 Plum Systems, Cape Town  
 0847399063 | tristan@plum.systems
+
+# Mock Interview
+
+<h2>Mock Interview Video</h2>
+<video width="600" controls>
+  <source src="assets/Lisa Video Inteview.mp4" type="video/mp4">
+</video>
