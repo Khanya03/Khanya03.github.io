@@ -98,6 +98,6 @@ Plum Systems, Cape Town
 
 <h2>Mock Interview Video</h2>
 <video width="600" controls>
-  <source src="assets/Lisa Video Inteview.mp4" type="video/mp4">
+  <source src="assets/LisaVideoInteview.mp4" type="video/mp4">
 </video>
-[Watch my Mock Interview Video](https://Khanya03.github.io/assets/Lisa Video Interview.mp4)
+[Watch my Mock Interview Video](https://Khanya03.github.io/assets/LisaVideoInteview.mp4)
