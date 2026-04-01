@@ -70,7 +70,7 @@ ICT - Software Development student with hands-on experience developing Java and 
 ### Trailer Hire Management System
 *Java | MySQL | Spring Boot*
 
-- Built using Domain-Driven Design (DDD) to model customers, trailers, and bookings as distinct domains
+- Built using Domain-Driven Design (DDD) and SpringBoot to model customers, trailers, and bookings as distinct domains
 - Applied Test-Driven Development (TDD) to ensure reliability of business logic and rental rules
 - Designed MySQL database with constraints and relationships for data integrity
 - Developed frontend using Laravel Blade templates with responsive UI
