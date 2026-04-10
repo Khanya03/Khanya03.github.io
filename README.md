@@ -97,14 +97,14 @@ ICT - Software Development student with hands-on experience developing Java and 
 
 ## ScreenShots
 
-![Home](screenshots/student-academia/home.png)
-![Lesson](screenshots/student-academia/profile.png)
-![Lesson](screenshots/student-academia/network.png)
-![Lesson](screenshots/student-academia/studentnetwork.png)
-![Lesson](screenshots/student-academia/lesson.png)
-![Lesson](screenshots/student-academia/teachinglesson.png)
-![Lesson](screenshots/student-academia/message.png)
-![Lesson](screenshots/student-academia/database.png)
+![Home](screenshots/StudentAcademia/home.png)
+![Lesson](screenshots/StudentAcademia/profile.png)
+![Lesson](screenshots/StudentAcademia/network.png)
+![Lesson](screenshots/StudentAcademia/studentnetwork.png)
+![Lesson](screenshots/StudentAcademia/lesson.png)
+![Lesson](screenshots/StudentAcademia/teachinglesson.png)
+![Lesson](screenshots/StudentAcademia/message.png)
+![Lesson](screenshots/StudentAcademia/database.png)
 
 ---
 
