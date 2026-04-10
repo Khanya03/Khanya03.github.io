@@ -75,6 +75,9 @@ ICT - Software Development student with hands-on experience developing Java and 
 - Designed MySQL database with constraints and relationships for data integrity
 - Developed frontend using Laravel Blade templates with responsive UI
 
+ ## Link to the Project:
+https://github.com/Samnke/Trailer-Hire-Project
+
 ## ScreenShots
 
 ![Homepage](screenshots/trailerhire/register.png)
@@ -89,6 +92,10 @@ ICT - Software Development student with hands-on experience developing Java and 
 
 ### Student-Tutor Matching Platform  
 
+ ## Link to the Project:
+ https://github.com/SeanJBailey/Project3
+
+ 
 *Laravel | JavaScript | MySQL*
 
 - Developed a multi-tier web application to connect students with tutors and lecturers   
