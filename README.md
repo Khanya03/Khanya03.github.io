@@ -2,9 +2,13 @@
 ### Software Engineer
 
 **Location:** 14 Ravencraig House, Cape Town
+
 **Phone:** 0633292143
+
 **Email:** 230126669@mycput.ac.za
+
 **GitHub:** [github.com/Khanya03](https://github.com/Khanya03)
+
 **LinkedIn:** [linkedin.com/in/lisakhanyampahla-69b8ab271](https://linkedin.com/in/lisakhanyampahla-69b8ab271)
 
 ---
