@@ -77,11 +77,17 @@ ICT - Software Development student with hands-on experience developing Java and 
 
 ## ScreenShots
 ### Trailer Hire Management System
-![Homepage](screenshots/trailerhire/homepage.png)
+![Homepage](screenshots/trailerhire/register.png)
 ![Login](screenshots/trailerhire/login.png)
+![Booking Form](screenshots/trailerhire/loginLoggedIn.png)
+![Homepage](screenshots/trailerhire/homepage.png)
+![Login](screenshots/trailerhire/Trailers.png)
 ![Booking Form](screenshots/trailerhire/bookingform.png)
-### Student-Tutor Matching Platform  
+![Booking Form](screenshots/trailerhire/calender.png)
+![Booking Form](screenshots/trailerhire/invoice.png)
+![Booking Form](screenshots/trailerhire/invoice2.png)
 
+### Student-Tutor Matching Platform  
 
 *Laravel | JavaScript | MySQL*
 
