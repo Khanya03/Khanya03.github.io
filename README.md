@@ -184,8 +184,6 @@ My portfolio was successfully deployed and is live at [Khanya03.github.io](https
 
 ---
 
-## Mock Interview
-
 <h2>Mock Interview Video</h2>
 <video width="600" controls>
   <source src="assets/LisaVideoInteview.mp4" type="video/mp4">
