@@ -76,7 +76,7 @@ ICT - Software Development student with hands-on experience developing Java and 
 - Developed frontend using Laravel Blade templates with responsive UI
 
 ## ScreenShots
-### Trailer Hire Management System
+
 ![Homepage](screenshots/trailerhire/register.png)
 ![Login](screenshots/trailerhire/login.png)
 ![Booking Form](screenshots/trailerhire/loginLoggedIn.png)
@@ -94,6 +94,11 @@ ICT - Software Development student with hands-on experience developing Java and 
 - Developed a multi-tier web application to connect students with tutors and lecturers   
 - Designed and executed SQL queries for user management and data retrieval  
 - Built dynamic frontend components using JavaScript  
+
+## ScreenShots
+
+![Home](screenshots/student-academia/home.png)
+![Lesson](screenshots/student-academia/lesson.png)
 
 ---
 
