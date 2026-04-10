@@ -198,7 +198,7 @@ My portfolio was successfully deployed and is live at [Khanya03.github.io](https
 
 **Tashreeq**
 Plum Systems, Cape Town
-0768389012 | Tashreeq@plumsystems
+0768389012 | Tashreeq@plum.systems
 
 **Tristan**
 Plum Systems, Cape Town
