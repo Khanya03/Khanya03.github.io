@@ -75,7 +75,14 @@ ICT - Software Development student with hands-on experience developing Java and 
 - Designed MySQL database with constraints and relationships for data integrity
 - Developed frontend using Laravel Blade templates with responsive UI
 
+## ScreenShots
+### Trailer Hire Management System
+![Homepage](screenshots/trailerhire/homepage.png)
+![Login](screenshots/trailerhire/login.png)
+![Booking Form](screenshots/trailerhire/bookingform.png)
 ### Student-Tutor Matching Platform  
+
+
 *Laravel | JavaScript | MySQL*
 
 - Developed a multi-tier web application to connect students with tutors and lecturers   
