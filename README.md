@@ -196,10 +196,12 @@ My portfolio was successfully deployed and is live at [Khanya03.github.io](https
 
 ## References
 
+**Senior Developer**
 **Tashreeq**
 Plum Systems, Cape Town
 0768389012 | Tashreeq@plum.systems
 
+**Team Lead**
 **Tristan**
 Plum Systems, Cape Town
 0847399063 | tristan@plum.systems
