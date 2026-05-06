@@ -211,4 +211,4 @@ Plum Systems, Cape Town
 
 Evidence of my GitHub student account registered with my CPUT email address.
 
-![GitHub Student Evidence](screenshots/EvidenceScreenshots/github_email_evidence.png)
+![GitHub Student Evidence](screenshots/EvidenceScreenshots/Screenshot%202026-05-06%20132954.png)
