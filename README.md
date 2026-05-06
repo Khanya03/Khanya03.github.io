@@ -206,5 +206,9 @@ Plum Systems, Cape Town
 Plum Systems, Cape Town
 0847399063 | tristan@plum.systems
 
-## Reflection on GitHub Pages
 
+## GitHub Student Account Evidence
+
+Evidence of my GitHub student account registered with my CPUT email address.
+
+![GitHub Student Evidence](screenshots/EvidenceScreenshots/github_email_evidence.png)
