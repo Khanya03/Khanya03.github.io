@@ -206,3 +206,5 @@ Plum Systems, Cape Town
 Plum Systems, Cape Town
 0847399063 | tristan@plum.systems
 
+## Reflection on GitHub Pages
+
