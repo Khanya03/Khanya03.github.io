@@ -41,19 +41,8 @@ ICT: Software Development student with hands-on experience building Java, Spring
 - **Learning Java 11**
   *Completed March 2026*
 
----
-
-## Achievements
-
-### UCT Open Payments Hackathon 2026 (HACK 2026)
-*Hosted by the University of Cape Town, the Interledger Foundation, and the Financial Innovation Hub*
-**June 27, 2026**
-
-Recognized for outstanding commitment to innovative, collaborative work using open-source technologies to solve real-world problems in digital payments. Built **SnipSave**, a micro-savings concept application, using Express, TypeScript, and Drizzle ORM.
-
-**Certificate:** [View Certificate](certificates/UCT_HACK2026_Certificate.pdf)
-
-![UCT HACK 2026 Certificate](certificates/UCT_HACK2026_Certificate.pdf)
+- **UCT Open Payments Hackathon 2026 (HACK 2026)**
+  *Completed June 2026* — [View Certificate](https://github.com/Khanya03/Khanya03.github.io/blob/main/certificates/UCT_HACK2026_Certificate.pdf)
 
 ---
 
@@ -110,7 +99,7 @@ A mobile app for tracking daily macronutrients — calories, protein, carbs, and
 
 **What I built / learned:** Practiced file-based navigation with expo-router, local data persistence with AsyncStorage, integrating native device APIs (notifications, haptics, clipboard, share), and structuring a React Native app with a clean separation between UI components, storage logic, and styling.
 
-**Link:** _[Add GitHub repository link]_
+**Link:** [github.com/Khanya03/Macrozone](https://github.com/Khanya03/Macrozone)
 
 ---
 
