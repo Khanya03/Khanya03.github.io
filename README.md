@@ -1,9 +1,9 @@
 # Lisakhanya Mpahla
 ### Software Engineer
 
-**Location:** 14 Ravencraig House, Cape Town
+**Location:** Cape Town, South Africa
 
-**Phone:** 0633292143
+**Phone:** 063 329 2143
 
 **Email:** 230126669@mycput.ac.za
 
@@ -15,13 +15,13 @@
 
 ## Profile
 
-ICT - Software Development student with hands-on experience developing Java and Laravel-based client-server applications using object-oriented programming and relational databases. Strong foundation in data structures, algorithms, software testing, and multi-tier system design through academic and internship experience. Fast learner with strong problem-solving skills, collaborative mindset, and interest in scalable, data-driven systems. Seeking a Software Engineering Intern or Graduate role to gain industry experience and contribute to real-world software solutions.
+ICT: Software Development student with hands-on experience building Java, Spring Boot, and Laravel-based client-server applications using object-oriented programming and relational databases. Solid foundation in data structures, algorithms, software testing, and multi-tier system design, developed through academic projects, personal projects, and internship experience. A fast learner with strong problem-solving skills, a collaborative mindset, and a growing interest in fintech, mobile development, and scalable, data-driven systems. Seeking a Software Engineering Intern, Graduate, or Work Integrated Learning (WIL) role to gain industry experience and contribute to real-world software solutions.
 
 ---
 
 ## Education
 
-**Diploma in ICT (Software Development)**
+**Diploma in ICT: Software Development**
 *Cape Peninsula University of Technology, Cape Town*
 2023 – 2026
 
@@ -32,14 +32,28 @@ ICT - Software Development student with hands-on experience developing Java and 
 
 ## Certifications & Professional Development
 
-- **AWS Certified Developer – Associate (DVA-C02) Cert Prep**
-  *Completed Mar 24, 2026*
+- **AWS Certified Developer – Associate (DVA-C02)**
+  *Completed March 2026*
 
 - **Spring Boot 3 Essential Training**
-  *Completed Mar 24, 2026*
+  *Completed March 2026*
 
 - **Learning Java 11**
-  *Completed Mar 23, 2026*
+  *Completed March 2026*
+
+---
+
+## Achievements
+
+### UCT Open Payments Hackathon 2026 (HACK 2026)
+*Hosted by the University of Cape Town, the Interledger Foundation, and the Financial Innovation Hub*
+**June 27, 2026**
+
+Recognized for outstanding commitment to innovative, collaborative work using open-source technologies to solve real-world problems in digital payments. Built **SnipSave**, a micro-savings concept application, using Express, TypeScript, and Drizzle ORM.
+
+**Certificate:** [View Certificate](certificates/UCT_HACK2026_Certificate.pdf)
+
+![UCT HACK 2026 Certificate](certificates/UCT_HACK2026_Certificate.pdf)
 
 ---
 
@@ -47,11 +61,12 @@ ICT - Software Development student with hands-on experience developing Java and 
 
 | Category | Technologies & Tools |
 |----------|----------------------|
-| **Languages** | Java, PHP, JavaScript, HTML, CSS, SQL (queries, joins, constraints) |
-| **Frameworks & Libraries** | Laravel, Vaadin, Spring Boot |
+| **Languages** | Java, TypeScript, JavaScript, PHP, HTML, CSS, SQL |
+| **Frameworks & Libraries** | Spring Boot, React Native (Expo), Express, Laravel, Vaadin |
+| **Mobile Development** | Expo, expo-router, AsyncStorage, native device APIs (notifications, haptics, clipboard, share) |
+| **Databases & ORM** | MySQL, PostgreSQL, Drizzle ORM |
 | **Tools & Platforms** | Git, GitHub, Maven, XAMPP, Visual Studio Code |
-| **Databases** | MySQL |
-| **Core Concepts** | Object-Oriented Programming, Software Testing, Multi-Tier System Design |
+| **Core Concepts** | Object-Oriented Programming, Domain-Driven Design, Test-Driven Development, Software Testing, Multi-Tier System Design |
 | **Cloud & DevOps** | Amazon Web Services (AWS), Cloud Application Development |
 
 ---
@@ -75,6 +90,29 @@ ICT - Software Development student with hands-on experience developing Java and 
 ---
 
 ## Projects
+
+### MacroZone 🥗
+*React Native | Expo (SDK 55) | TypeScript | expo-router*
+
+A mobile app for tracking daily macronutrients — calories, protein, carbs, and fat — built to practice core mobile development concepts including file-based navigation, local data persistence, and native device APIs.
+
+**Key features:**
+- Log meals with calories, protein, carbs, and fat
+- Home screen macro grid summarizing daily totals against goals
+- Recent meals view plus a full, browsable meal history
+- Delete meals via long-press (or click on web)
+- Share or copy a daily macro summary using the native share sheet or clipboard
+- Optional daily push notifications reminding users to log lunch and dinner
+- Haptic feedback on key actions for a native feel
+- Fully on-device persistence via AsyncStorage — no backend required
+
+**Tech stack:** React Native, Expo (SDK 55), TypeScript, expo-router, @react-native-async-storage/async-storage, expo-notifications, expo-haptics, expo-clipboard
+
+**What I built / learned:** Practiced file-based navigation with expo-router, local data persistence with AsyncStorage, integrating native device APIs (notifications, haptics, clipboard, share), and structuring a React Native app with a clean separation between UI components, storage logic, and styling.
+
+**Link:** _[Add GitHub repository link]_
+
+---
 
 ### Trailer Hire Management System
 *Java | MySQL | Spring Boot*
@@ -184,7 +222,8 @@ My portfolio was successfully deployed and is live at [Khanya03.github.io](https
 
 ---
 
-<h2>Mock Interview Video</h2>
+## Mock Interview Video
+
 <video width="600" controls>
   <source src="assets/LisaVideoInteview.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -199,13 +238,14 @@ My portfolio was successfully deployed and is live at [Khanya03.github.io](https
 **Senior Developer**
 **Tashreeq**
 Plum Systems, Cape Town
-0768389012 | Tashreeq@plum.systems
+076 838 9012 | tashreeq@plum.systems
 
 **Team Lead**
 **Tristan**
 Plum Systems, Cape Town
-0847399063 | tristan@plum.systems
+084 739 9063 | tristan@plum.systems
 
+---
 
 ## GitHub Student Account Evidence
 
