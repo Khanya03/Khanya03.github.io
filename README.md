@@ -42,7 +42,7 @@ ICT: Software Development student with hands-on experience building Java, Spring
   *Completed March 2026*
 
 - **UCT Open Payments Hackathon 2026 (HACK 2026)**
-  *Completed June 2026* — [View Certificate](https://github.com/Khanya03/Khanya03.github.io/blob/main/certificates/UCT_HACK2026_Certificate.pdf)
+  *Completed June 2026* 
 
 ---
 
