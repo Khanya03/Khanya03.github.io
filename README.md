@@ -80,6 +80,10 @@ ICT: Software Development student with hands-on experience building Java, Spring
 
 ## Projects
 
+## Agile Portfolio
+
+[Agile Portfolio: Fundi Shop](Agile.html)
+
 ### MacroZone 🥗
 *React Native | Expo (SDK 55) | TypeScript | expo-router*
 
